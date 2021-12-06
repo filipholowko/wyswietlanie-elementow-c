@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638826010 source:/home/qwerty891/Projekty/C/wyswietlanieElementow/wyswietlanieElementow/main.c
+	<stdio.h>
+	<stdlib.h>
+	"wyswFun.h"
+
+1638826073 /home/qwerty891/Projekty/C/wyswietlanieElementow/wyswietlanieElementow/wyswFun.h
+
